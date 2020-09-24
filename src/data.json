@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "name":"Falgun Thakwani" ,
+        "email":"falgunthakwani@gmail.com"
+    },
+    {
+        "id":"2",
+        "name":"Dharti Thakwani" ,
+        "email":"dhartithakwani@gmail.com"
+    },
+    {
+        "id":"3",
+        "name":"Prachi Thakwani" ,
+        "email":"prachithakwani@gmail.com"
+    },
+    {
+        "id":"4",
+        "name":"Jairaj Thakwani" ,
+        "email":"jairajthakwani@gmail.com"
+    },
+    {
+        "id":"5",
+        "name":"Dipti Thakwani" ,
+        "email":"diptithakwani@gmail.com"
+    }
+]
